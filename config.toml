@@ -2,7 +2,7 @@ baseURL = "https://hyoromo.github.io/cluster-craft-item/"
 languageCode = "en-us"
 title = "hyoromoのclusterクラフトアイテム一覧"
 theme = "slate"
-googleAnalytics = "G-7B0DT0V8KF"
+googleAnalytics = 'G-7B0DT0V8KF'
 publishDir = "docs"
 
 [ params ]
