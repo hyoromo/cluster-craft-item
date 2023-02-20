@@ -1516,4 +1516,4 @@ tiles:
   name: "Voxel Shooting"
   url: "https://cluster.mu/store/packages/58db1b82-fa86-4dcf-887b-06d1605a8259"
   img: "thumbnails/a6c56f59-582b-49f9-a426-5a4c09e42312.jfif"
-  tags: ["simple"]
+  tags: ["voxel", "simple"]
