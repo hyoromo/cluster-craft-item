@@ -1,0 +1,120 @@
+baseURL = "https://hyoromo.github.io/cluster-craft-item/"
+languageCode = "en-us"
+title = "hyoromoのclusterクラフトアイテム一覧"
+theme = "slate"
+
+[ params ]
+BackgroundStyle = "#303030;"
+OpenLinksInNewWindow = true
+Favicon = "favicon.ico"
+
+# list of nav tags
+#[[ params.nav ]]
+#name = "おすすめ"
+#tag = "favorite"
+#icon = "star"
+
+#[[ params.nav ]]
+#name = "simple"
+#tag = "simple"
+#icon = "star"
+
+[[ params.nav ]]
+name = "ボクセルフォント"
+tag = "voxel_font"
+icon = "font"
+
+[[ params.nav ]]
+name = "ドットフォント"
+tag = "dot_font"
+icon = "font"
+
+[[ params.nav ]]
+name = "パステル"
+tag = "pastel"
+icon = "star"
+
+[[ params.nav ]]
+name = "椅子"
+tag = "chair"
+icon = "star"
+
+[[ params.nav ]]
+name = "道具"
+tag = "tool"
+icon = "star"
+
+[[ params.nav ]]
+name = "透明"
+tag = "transparent"
+icon = "star"
+
+[[ params.nav ]]
+name = "ボクセル"
+tag = "voxel"
+icon = "star"
+
+[[ params.nav ]]
+name = "メタリック"
+tag = "metallic"
+icon = "star"
+
+[[ params.nav ]]
+name = "鏡面反射"
+tag = "specular_reflection"
+icon = "star"
+
+[[ params.nav ]]
+name = "おもちゃ"
+tag = "toy"
+icon = "star"
+
+[[ params.nav ]]
+name = "石造建築セット"
+tag = "stone_pack"
+icon = "star"
+
+[[ params.nav ]]
+name = "石造建築セット"
+tag = "sherbet_color"
+icon = "star"
+
+[[ params.nav ]]
+name = "アクション"
+tag = "action"
+icon = "star"
+
+[[ params.nav ]]
+name = "時計"
+tag = "clock"
+icon = "clock-o"
+
+[[ params.nav ]]
+name = "乗り物"
+tag = "ride"
+icon = "car"
+
+#[[ params.nav ]]
+#name = "シロクロ"
+#tag = "white_black"
+#icon = "star"
+
+[[ params.nav ]]
+name = "画面出力"
+tag = "screen"
+icon = "tv"
+
+[[ params.nav ]]
+name = "扉"
+tag = "door"
+icon = "star"
+
+[[ params.nav ]]
+name = "窓"
+tag = "window"
+icon = "star"
+
+[[ params.nav ]]
+name = "発光"
+tag = "emission"
+icon = "star"
