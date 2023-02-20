@@ -2,12 +2,14 @@ baseURL = "https://hyoromo.github.io/cluster-craft-item/"
 languageCode = "en-us"
 title = "hyoromoのclusterクラフトアイテム一覧"
 theme = "slate"
-googleAnalytics = ""
+googleAnalytics = "G-7B0DT0V8KF"
 publishDir = "docs"
 
 [ params ]
 BackgroundStyle = "#303030;"
 OpenLinksInNewWindow = true
+favicon = true
+svg = true
 Favicon = "favicon.ico"
 
 # list of nav tags
@@ -32,59 +34,54 @@ tag = "dot_font"
 icon = "font"
 
 [[ params.nav ]]
-name = "パステル"
-tag = "pastel"
-icon = "star"
-
-[[ params.nav ]]
-name = "椅子"
-tag = "chair"
-icon = "star"
-
-[[ params.nav ]]
 name = "道具"
 tag = "tool"
-icon = "star"
-
-[[ params.nav ]]
-name = "透明"
-tag = "transparent"
-icon = "star"
-
-[[ params.nav ]]
-name = "ボクセル"
-tag = "voxel"
-icon = "star"
-
-[[ params.nav ]]
-name = "メタリック"
-tag = "metallic"
-icon = "star"
-
-[[ params.nav ]]
-name = "鏡面反射"
-tag = "specular_reflection"
-icon = "star"
+icon = "wrench"
 
 [[ params.nav ]]
 name = "おもちゃ"
 tag = "toy"
-icon = "star"
+icon = "gamepad"
+
+[[ params.nav ]]
+name = "ボクセル"
+tag = "voxel"
+icon = "cogs"
+
+[[ params.nav ]]
+name = "パステル"
+tag = "pastel"
+icon = "globe"
+
+[[ params.nav ]]
+name = "メタリック"
+tag = "metallic"
+icon = "certificate"
+
+[[ params.nav ]]
+name = "透明"
+tag = "transparent"
+icon = "asterisk"
+
+[[ params.nav ]]
+name = "鏡面反射"
+tag = "specular_reflection"
+icon = "dashboard"
+
+[[ params.nav ]]
+name = "椅子"
+tag = "chair"
+icon = "eject"
 
 [[ params.nav ]]
 name = "石造建築セット"
 tag = "stone_pack"
-icon = "star"
-
-[[ params.nav ]]
-name = "石造建築セット"
-tag = "sherbet_color"
-icon = "star"
+icon = "suitcase"
 
 [[ params.nav ]]
 name = "アクション"
 tag = "action"
-icon = "star"
+icon = "legal"
 
 [[ params.nav ]]
 name = "時計"
@@ -96,11 +93,6 @@ name = "乗り物"
 tag = "ride"
 icon = "car"
 
-#[[ params.nav ]]
-#name = "シロクロ"
-#tag = "white_black"
-#icon = "star"
-
 [[ params.nav ]]
 name = "画面出力"
 tag = "screen"
@@ -109,14 +101,14 @@ icon = "tv"
 [[ params.nav ]]
 name = "扉"
 tag = "door"
-icon = "star"
+icon = "key"
 
 [[ params.nav ]]
 name = "窓"
 tag = "window"
-icon = "star"
+icon = "columns"
 
 [[ params.nav ]]
 name = "発光"
 tag = "emission"
-icon = "star"
+icon = "magic"
