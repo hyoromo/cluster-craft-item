@@ -1,5 +1,23 @@
 tiles:
 -
+  name: "呼び出しアイテムセット"
+  url: "https://cluster.mu/store/packages/be608245-2617-4d74-a6e2-5e57ec65faba"
+  img: "thumbnails/c24a2d83-f346-4d81-be53-0d8fed1aa6a9.jfif"
+  tags: ["tool"]
+
+-
+  name: "入店チャイム付き扉セット"
+  url: "https://cluster.mu/store/packages/aa411a89-0b02-4f68-acd0-1af64fe982ae"
+  img: "thumbnails/17c2c19b-6a6b-4138-a688-82405f04eb2f.jfif"
+  tags: ["door"]
+
+-
+  name: "ベル付き扉セット"
+  url: "https://cluster.mu/store/packages/603b5819-a095-4fda-99d0-94a61d65921a"
+  img: "thumbnails/5c36356d-1b79-456b-9c42-4ceea368d69b.jfif"
+  tags: ["door"]
+
+-
   name: "運試しセット"
   url: "https://cluster.mu/store/packages/6e2b785a-bf84-44d5-8547-8f3a03f2e0d0"
   img: "thumbnails/0de02e3b-4888-4e2a-91f0-00fc50a2a3e8.jfif"
