@@ -270,10 +270,58 @@ tiles:
   tags: ["font", "voxel_font"]
 
 -
+  name: "ドット発光フォント 数字+算術演算子セット【緑色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/a28598c9-53c0-40a8-9f68-3374020dd1f2"
+  img: "thumbnails/524ba939-80a8-43bb-b991-91ee715f4ca1.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント 数字+算術演算子セット【黄色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/1584e885-a0e7-4b94-b0f2-48174bf93bc8"
+  img: "thumbnails/8f238085-e749-45c4-9ba3-6b9522e98af2.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント 数字+算術演算子セット【青色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/24a3e8c8-a9b3-4476-99f4-1c393e07c8a2"
+  img: "thumbnails/4ee8fadd-4f17-47b3-8ad6-ae940e04b3df.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント 数字+算術演算子セット【赤色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/fe72119e-9351-4dcd-a933-921815bb3143"
+  img: "thumbnails/fb040a70-aed5-4209-9d12-eeb301689702.jfif"
+  tags: ["font", "dot_font"]
+
+-
   name: "ドット発光フォント 数字+算術演算子セット（サイズ１）"
   url: "https://cluster.mu/store/packages/2be709b9-edbe-4021-8e23-f140c0ae38fc"
   img: "thumbnails/c7bacd2a-7c2c-4493-8a6a-08eb9493788e.jfif"
   tags: ["font", "dot_font"]
+
+-
+  name: "ボクセル発光フォント 数字+算術演算子セット【緑色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/363f2b7d-f621-4581-8396-ba25bf1d8ff6"
+  img: "thumbnails/de1563ea-7465-4ad5-aac9-1d19afa7e5ea.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント 数字+算術演算子セット【黄色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/514eb6b0-9d73-4bcc-9e10-e9ab76467bf7"
+  img: "thumbnails/0039353d-94ce-495f-b532-94bb699b84a8.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント 数字+算術演算子セット【青色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/113d7443-75e1-4d67-b3a4-dc3faaab083a"
+  img: "thumbnails/659d6e94-8091-4ba4-8aa4-193b11183de8.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント 数字+算術演算子セット【赤色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/d344c8b2-ef14-40c4-8e8e-81eb6e079278"
+  img: "thumbnails/f1f13083-80ac-4348-9879-5590eeb0e87a.jfif"
+  tags: ["font", "voxel_font"]
 
 -
   name: "ボクセル発光フォント 数字+算術演算子セット（サイズ１）"
