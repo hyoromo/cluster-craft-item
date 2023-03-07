@@ -112,3 +112,8 @@ icon = "columns"
 name = "発光"
 tag = "emission"
 icon = "magic"
+
+[[ params.nav ]]
+name = "食べ物"
+tag = "food"
+icon = "apple"

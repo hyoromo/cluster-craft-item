@@ -1,5 +1,17 @@
 tiles:
 -
+  name: "ナビ玉セット"
+  url: "https://cluster.mu/store/packages/dff8a561-1207-4b26-ba27-6594fba3181c"
+  img: "thumbnails/dff8a561-1207-4b26-ba27-6594fba3181c.jpg"
+  tags: ["ride"]
+
+-
+  name: "三色団子セット"
+  url: "https://cluster.mu/store/packages/d2875bdd-c588-407c-83c0-8bdd56e429e0"
+  img: "thumbnails/d2875bdd-c588-407c-83c0-8bdd56e429e0.jpg"
+  tags: ["food"]
+
+-
   name: "青系の光る可変ブロック"
   url: "https://cluster.mu/store/packages/71e57c7e-e5c1-4ee8-8ee6-daf17458ecb5"
   img: "thumbnails/13b63151-7eb4-4f10-aa5a-ea97f5c6acdf.jfif"
@@ -389,6 +401,30 @@ tiles:
   url: "https://cluster.mu/store/packages/c5a050b0-a241-4f61-b9a2-d09b99b56553"
   img: "thumbnails/8a18b725-9e7a-4a00-a21a-85aa4dfabe63.jfif"
   tags: ["window"]
+
+-
+  name: "[開かない/夜用]スライドして開かない扉セット"
+  url: "https://cluster.mu/store/packages/bd1d62af-1eb6-4cdc-b5d3-276627bd4824"
+  img: "thumbnails/0e84ac1d-c4fa-485f-8c70-32b536b89aa3.jfif"
+  tags: ["door"]
+
+-
+  name: "[開かない/夜用]９０度回転して開かない扉セット"
+  url: "https://cluster.mu/store/packages/7d9ae66e-9ba5-48a0-b39b-07fd29d94dce"
+  img: "thumbnails/9236d7d7-7869-4eb7-a50c-db9e024bc7aa.jfif"
+  tags: ["door"]
+
+-
+  name: "[開かない]スライドして開かない扉セット"
+  url: "https://cluster.mu/store/packages/c4775407-7bea-49d2-a513-525111c043c3"
+  img: "thumbnails/82195787-61c6-4cda-bdd1-483599aec91c.jfif"
+  tags: ["door"]
+
+-
+  name: "[開かない]９０度回転して開かない扉セット"
+  url: "https://cluster.mu/store/packages/cf664006-539a-400e-896a-43fa03298f0b"
+  img: "thumbnails/b394e2bb-22ba-4c04-b226-d327d87bfd53.jfif"
+  tags: ["door"]
 
 -
   name: "【夜用】スライドして開く扉セット"
