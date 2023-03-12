@@ -258,6 +258,54 @@ tiles:
   tags: ["font", "dot_font"]
 
 -
+  name: "ボクセル発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【黄色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/81c5fc80-01c9-4eb1-b978-72bd90886fac"
+  img: "thumbnails/97be43da-681c-472a-84f5-5e1227295a08.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント ひらがな「あ行」から「は行」までセット【黄色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/8f7005a2-32a6-43c6-b35f-2364a09a0944"
+  img: "thumbnails/6e6484df-2bc6-4885-b6d4-b77ceba0e06d.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【緑色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/9a400015-271b-46cf-86c0-2046dae39f8f"
+  img: "thumbnails/17468897-0f8f-4cc3-afe1-36ed967b6d9e.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント ひらがな「あ行」から「は行」までセット【緑色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/6e153a14-81e1-433e-8b7d-571351cc0425"
+  img: "thumbnails/ab8963b4-ef24-494a-8aa3-5fd01d7cc01c.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【青色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/ab0d5871-eb85-440f-a279-6015336fdd23"
+  img: "thumbnails/0b9c78a2-e11d-4836-a301-c803971cabf1.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント ひらがな「あ行」から「は行」までセット【青色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/8852ad32-37bf-435e-bebb-751b054972b3"
+  img: "thumbnails/bf119e14-1a89-4c7d-846c-8a2fe92a08c1.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【赤色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/28658a2e-15f8-4aeb-97fa-9d7923c02359"
+  img: "thumbnails/f23720a6-35d9-462d-9f78-dc0018c24104.jfif"
+  tags: ["font", "voxel_font"]
+
+-
+  name: "ボクセル発光フォント ひらがな「あ行」から「は行」までセット【赤色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/539f5c39-bdc0-423d-89a3-00d056f9e8a5"
+  img: "thumbnails/751d86a8-63ee-44da-9ceb-1719915be0d7.jfif"
+  tags: ["font", "voxel_font"]
+
+-
   name: "ボクセル発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット（サイズ１）"
   url: "https://cluster.mu/store/packages/98422309-4b81-45ba-b906-f711c127f472"
   img: "thumbnails/182d0590-9fa7-44fd-8a39-492c91b1f716.jfif"
