@@ -1,5 +1,11 @@
 tiles:
 -
+  name: "メテオライド セット"
+  url: "https://cluster.mu/store/packages/097d7664-32e0-42ee-bdf8-923247a578f7"
+  img: "thumbnails/8f003094-ac02-4376-afac-1e2d595c41e1.jfif"
+  tags: ["ride"]
+
+-
   name: "ナビ玉セット"
   url: "https://cluster.mu/store/packages/dff8a561-1207-4b26-ba27-6594fba3181c"
   img: "thumbnails/dff8a561-1207-4b26-ba27-6594fba3181c.jpg"
