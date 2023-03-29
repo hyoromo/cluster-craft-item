@@ -1,4 +1,17 @@
 tiles:
+
+-
+  name: "ルームプレート特別教室セット"
+  url: "https://cluster.mu/store/packages/81f594dc-28cb-4bd5-8787-decba762ffe4"
+  img: "thumbnails/0c79d683-36ae-4300-af7c-c3105fab563b.jfif"
+  tags: ["school"]
+
+-
+  name: "ルームプレート普通教室セット"
+  url: "https://cluster.mu/store/packages/88304b51-4d83-44f0-94cf-0ca9c097b80a"
+  img: "thumbnails/87dc0d47-52d0-4f46-b09f-90f7765af57b.jfif"
+  tags: ["school"]
+
 -
   name: "チョークで描いた日付セット"
   url: "https://cluster.mu/store/packages/230bf4c3-2674-47d7-8752-97f016699cbd"
@@ -274,6 +287,54 @@ tiles:
   url: "https://cluster.mu/store/packages/acdeb5f9-0686-4053-9308-a3636f17c4a7"
   img: "thumbnails/f276f302-3a02-422e-a4af-51e6959d080b.jfif"
   tags: ["font", "voxel_font"]
+
+-
+  name: "ドット発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【緑色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/570914b8-2674-490c-881b-759351fc23c5"
+  img: "thumbnails/2884e901-8a6f-4a47-a2ea-50fdf528fb1a.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント ひらがな「あ行」から「は行」までセット【緑色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/712d03ff-de54-46d8-b0e2-98831088a74c"
+  img: "thumbnails/70941bfd-37aa-4b7d-9093-8e0b5ee31d40.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【黄色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/cac2d474-3dbe-475d-86f7-ff960da46859"
+  img: "thumbnails/2a6cb623-9eb2-4231-acd1-9c92c4614334.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント ひらがな「あ行」から「は行」までセット【黄色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/3f854c1a-41fa-47b6-9738-e1a9773eddd1"
+  img: "thumbnails/84429683-fae8-4e4c-addd-8128b680ab56.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【青色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/e09dc7c8-fdee-4db6-909c-9f75c6dbac39"
+  img: "thumbnails/b1a0e7e7-ab6b-45f4-84f1-742d4c91189f.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント ひらがな「あ行」から「は行」までセット【青色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/c8c3684c-ad3c-41d0-bcc9-704b52d47943"
+  img: "thumbnails/083686d6-54c6-4858-93f7-a7790180b446.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット【赤色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/24f89eb6-2214-49e7-9415-bf8b751fe1ba"
+  img: "thumbnails/c013797e-b617-473e-93c8-0338e471f778.jfif"
+  tags: ["font", "dot_font"]
+
+-
+  name: "ドット発光フォント ひらがな「あ行」から「は行」までセット【赤色】（サイズ１）"
+  url: "https://cluster.mu/store/packages/49956771-b563-4dad-a111-360fe6c85fb5"
+  img: "thumbnails/e186bb21-4062-4f17-8df6-f3b819cb1056.jfif"
+  tags: ["font", "dot_font"]
 
 -
   name: "ドット発光フォント ひらがな「ま行」以降+濁点＆半濁点＆句読点セット（サイズ１）"
