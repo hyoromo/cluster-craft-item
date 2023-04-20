@@ -1,6 +1,66 @@
 tiles:
 
 -
+  name: "発光･日付つきデジタル時計（サイズ５）"
+  url: "https://cluster.mu/store/packages/f491e741-a110-4ae9-b206-6b83447779b4"
+  img: "thumbnails/9af1bf74-ba2c-4a94-9b1d-5638fca12ad8.jfif"
+  tags: ["clock", "simple"]
+
+-
+  name: "発光･日付つきデジタル時計（サイズ３）"
+  url: "https://cluster.mu/store/packages/7d4b766a-f863-493d-90fa-1e6414c3e1c0"
+  img: "thumbnails/78546321-d1e6-47ba-aa7b-0e01aa75ad78.jfif"
+  tags: ["clock", "simple"]
+
+-
+  name: "発光･日付つきデジタル時計（サイズ２）"
+  url: "https://cluster.mu/store/packages/0ac1a3f2-dfae-4049-ba5e-2544d9eff46f"
+  img: "thumbnails/ac13b35b-93e3-4294-be83-3db7c6a03c09.jfif"
+  tags: ["clock", "simple"]
+
+-
+  name: "発光･日付つきデジタル時計（サイズ１）"
+  url: "https://cluster.mu/store/packages/2be02738-c1f3-4130-a547-7efbe5eb360a"
+  img: "thumbnails/92c2995d-f39a-4be7-b943-d038cf38daf5.jfif"
+  tags: ["clock", "simple"]
+
+-
+  name: "上昇してキラキラ光るセット"
+  url: "https://cluster.mu/store/packages/a6762e7a-63dd-4c0f-b527-3d79759a7e3b"
+  img: "thumbnails/775c5c0e-a2c8-40b5-8a5f-740ad4583ead.jfif"
+  tags: ["emission"]
+
+-
+  name: "キラキラ光るセット"
+  url: "https://cluster.mu/store/packages/342dd951-854c-4a49-a6e0-e505d5f0e12d"
+  img: "thumbnails/28f5d261-5c4d-4794-9612-1f7210db2af0.jfif"
+  tags: ["emission"]
+
+-
+  name: "シロクロなグレー ブロック2パック"
+  url: "https://cluster.mu/store/packages/e99ffcb7-0151-4971-ac7e-af41bfeaf4fa"
+  img: "thumbnails/72c3e24a-16ff-41d5-b834-883e0f2ef923.jfif"
+  tags: ["simple"]
+
+-
+  name: "シロクロなグレー ブロック1パック"
+  url: "https://cluster.mu/store/packages/827aae0f-9d8b-4afd-9c30-2fd08f4c9fd2"
+  img: "thumbnails/3ed142f5-cf53-4fb8-bf0c-b8f6d1bfd664.jfif"
+  tags: ["simple"]
+
+-
+  name: "シロクロなグレー 壁パック"
+  url: "https://cluster.mu/store/packages/b4d3970e-a844-4b36-aa3b-2d4f0038b8b5"
+  img: "thumbnails/056cde6d-09c6-4c5d-9fac-b218ca8ab0ee.jfif"
+  tags: ["simple"]
+
+-
+  name: "雲の足場セット1"
+  url: "https://cluster.mu/store/packages/e711a486-6778-47f1-8ae6-2ac5e74f6650"
+  img: "thumbnails/40c1ad65-1bc8-47e8-8712-1e943ff40f44.jfif"
+  tags: ["simple"]
+
+-
   name: "ルームプレート特別教室セット"
   url: "https://cluster.mu/store/packages/81f594dc-28cb-4bd5-8787-decba762ffe4"
   img: "thumbnails/0c79d683-36ae-4300-af7c-c3105fab563b.jfif"
