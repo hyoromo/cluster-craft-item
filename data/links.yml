@@ -1,6 +1,102 @@
 tiles:
 
 -
+  name: "桃色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/9b1d70b9-191f-4977-aa9e-8a80be43ab04"
+  img: "thumbnails/c9d3fa93-b554-4a9c-ac6d-5d69ab49f4e7.jfif"
+  tags: ["emission"]
+
+-
+  name: "赤紫色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/f7a61e83-3028-4dbe-84a6-51e405db0135"
+  img: "thumbnails/d4c5d29f-5128-453a-ba19-37fdd80f9221.jfif"
+  tags: ["emission"]
+
+-
+  name: "紫色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/8cb0512d-d2b9-4403-bdf2-105847142740"
+  img: "thumbnails/e1efa389-cbef-4a88-91d9-88d5896fff70.jfif"
+  tags: ["emission"]
+
+-
+  name: "青色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/2c3b3265-e0c2-4d19-abeb-d7a783ffebb1"
+  img: "thumbnails/76114cb1-41d4-45e7-bb94-c3f6fd988633.jfif"
+  tags: ["emission"]
+
+-
+  name: "白藍色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/b68726e9-ff14-481a-97a3-7029c7cacd30"
+  img: "thumbnails/19113b6a-d196-420f-a9ff-62313429ff58.jfif"
+  tags: ["emission"]
+
+-
+  name: "青緑色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/dbb30854-1c8a-4425-8a9b-34029aec624f"
+  img: "thumbnails/1eac9178-e700-4c6a-a8f7-f8fbfd23b01f.jfif"
+  tags: ["emission"]
+
+-
+  name: "緑色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/bcbb0812-f2be-45eb-8cd1-14f2bdd0727f"
+  img: "thumbnails/5d9f52f0-be0d-4bf1-a4ad-bb4c7e837d27.jfif"
+  tags: ["emission"]
+
+-
+  name: "黄緑色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/07ed8111-88bc-4c23-bdae-40028dba8c79"
+  img: "thumbnails/65ad45fa-bebf-470f-8c34-9d7a96fd290d.jfif"
+  tags: ["emission"]
+
+-
+  name: "黄色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/764d4541-6898-47fc-81d5-77b487fbd09e"
+  img: "thumbnails/6bac5328-582a-4e44-acfc-db8490a1fad9.jfif"
+  tags: ["emission"]
+
+-
+  name: "黄橙色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/7c580c98-7c3d-4c8a-9962-a53054a1a09c"
+  img: "thumbnails/bd37c5db-0dcb-4285-93c2-f9befb8efd32.jfif"
+  tags: ["emission"]
+
+-
+  name: "橙色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/fb47deee-76c2-4785-8488-8f3467276652"
+  img: "thumbnails/c47ac4b5-0779-42f9-83a6-51458af5044f.jfif"
+  tags: ["emission"]
+
+-
+  name: "赤色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/dbec824f-f3be-4da6-bbec-f356093d68fd"
+  img: "thumbnails/25e412f2-a39d-40f7-8b51-f125fb251f17.jfif"
+  tags: ["emission"]
+
+-
+  name: "白色の蛍光棒セット"
+  url: "https://cluster.mu/store/packages/c5ccb4eb-bab8-4b46-8e09-93239d3c2d59"
+  img: "thumbnails/f8831d88-5eda-43ec-b5ef-5f76999fde0c.jfif"
+  tags: ["emission"]
+
+-
+  name: "真っ黒ブロック セット"
+  url: "https://cluster.mu/store/packages/6e073238-4712-4d25-a48f-0492e489e5bc"
+  img: "thumbnails/ff964ac3-0d8e-48ef-aa6e-989ef8f795ac.jfif"
+  tags: ["simple"]
+
+-
+  name: "上昇する星屑セット"
+  url: "https://cluster.mu/store/packages/9c9ef371-9463-4655-aaef-b54d5f070550"
+  img: "thumbnails/b2b385bc-1ff3-4887-938a-323eca0ddd48.jfif"
+  tags: ["emission"]
+
+-
+  name: "星屑セット"
+  url: "https://cluster.mu/store/packages/02286193-80f0-4943-910b-63574aa14d55"
+  img: "thumbnails/0c6831f5-339c-45ae-bfb1-89c237e75a78.jfif"
+  tags: ["emission"]
+
+-
   name: "雨窓／屋根【メタリック白・メタリック黒・銀】セット（屋外向け）"
   url: "https://cluster.mu/store/packages/6f813236-7cd8-4a7e-bbfc-5baf132e6cec"
   img: "thumbnails/76a064c3-072b-4c95-91fb-d96881225214.jfif"
@@ -139,6 +235,12 @@ tiles:
   tags: ["clock"]
 
 -
+  name: "メテオライド墜落セット"
+  url: "https://cluster.mu/store/packages/a82d0235-cc65-475b-a305-ebd26d85c351"
+  img: "thumbnails/04481e3b-cbf3-482f-b30f-9ab9391c0086.jfif"
+  tags: ["ride"]
+
+-
   name: "メテオライド無限周回セット"
   url: "https://cluster.mu/store/packages/36395ca0-fe2d-4990-b19b-553a70d8cf8b"
   img: "thumbnails/54ddf82d-0a08-4a31-912a-1219c3b1ee46.jfif"
@@ -151,10 +253,16 @@ tiles:
   tags: ["ride"]
 
 -
+  name: "逆ナビ玉セット"
+  url: "https://cluster.mu/store/packages/5de3f34f-fa46-4845-9800-445a822d0dd0"
+  img: "thumbnails/b7a88552-0234-450f-87f1-3934f095655d.jfif"
+  tags: ["ride", "emission"]
+
+-
   name: "ナビ玉セット"
   url: "https://cluster.mu/store/packages/dff8a561-1207-4b26-ba27-6594fba3181c"
   img: "thumbnails/dff8a561-1207-4b26-ba27-6594fba3181c.jpg"
-  tags: ["ride"]
+  tags: ["ride", "emission"]
 
 -
   name: "三色団子セット"
