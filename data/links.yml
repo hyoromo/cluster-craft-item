@@ -1,6 +1,12 @@
 tiles:
 
 -
+  name: "Ziplineセット"
+  url: "https://cluster.mu/store/packages/64e25890-f19c-4369-9b62-6f996c3fada0"
+  img: "thumbnails/c5ac9cd9-783d-4627-a55f-a20623857fd6.jfif"
+  tags: ["ride", "emission"]
+
+-
   name: "桃色の蛍光棒セット"
   url: "https://cluster.mu/store/packages/9b1d70b9-191f-4977-aa9e-8a80be43ab04"
   img: "thumbnails/c9d3fa93-b554-4a9c-ac6d-5d69ab49f4e7.jfif"
@@ -77,6 +83,12 @@ tiles:
   url: "https://cluster.mu/store/packages/c5ccb4eb-bab8-4b46-8e09-93239d3c2d59"
   img: "thumbnails/f8831d88-5eda-43ec-b5ef-5f76999fde0c.jfif"
   tags: ["emission"]
+
+-
+  name: "真っ白ブロック セット"
+  url: "https://cluster.mu/store/packages/1adf216e-3de3-46ee-a2e8-a9f23d4a61e0"
+  img: "thumbnails/4975aebc-8b21-4091-9438-bddc7c09900b.jfif"
+  tags: ["simple"]
 
 -
   name: "真っ黒ブロック セット"
