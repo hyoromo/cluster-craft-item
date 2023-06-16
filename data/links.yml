@@ -1,6 +1,12 @@
 tiles:
 
 -
+  name: "作る！ソフトクリーム セット"
+  url: "https://cluster.mu/store/packages/23e6321c-5cb4-4049-843a-3e9f0cab5924"
+  img: "thumbnails/23e6321c-5cb4-4049-843a-3e9f0cab5924.jpg"
+  tags: ["food"]
+
+-
   name: "Ziplineセット"
   url: "https://cluster.mu/store/packages/64e25890-f19c-4369-9b62-6f996c3fada0"
   img: "thumbnails/c5ac9cd9-783d-4627-a55f-a20623857fd6.jfif"
