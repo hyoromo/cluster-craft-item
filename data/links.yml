@@ -1,4 +1,76 @@
 tiles:
+-
+  name: "窓ガラスの枠【ﾒﾀﾘｯｸ茶色】セット"
+  url: "https://cluster.mu/store/packages/f3c4357a-4483-4ad6-b5bf-5744446605d8"
+  img: "thumbnails/948b2067-7e6c-4427-b12c-f6a326c9c160.jfif"
+  tags: ["window"]
+
+-
+  name: "窓ガラスの枠【銀色】セット"
+  url: "https://cluster.mu/store/packages/38910570-a970-4175-981e-83f6eb5b600c"
+  img: "thumbnails/34ad83d4-d0c4-44c8-bf7b-141dc0530892.jfif"
+  tags: ["window"]
+
+-
+  name: "ガラスの枠【ﾒﾀﾘｯｸ白色】セット"
+  url: "https://cluster.mu/store/packages/4c6bc224-dfc8-47b9-9553-044ecdb27d4f"
+  img: "thumbnails/e07c4cd5-8f5e-4b96-b1b6-a30716362307.jfif"
+  tags: ["window"]
+
+-
+  name: "ガラスの枠【ﾒﾀﾘｯｸ黒色】セット"
+  url: "https://cluster.mu/store/packages/f031d52d-4c76-4217-94ca-1097f509e408"
+  img: "thumbnails/b901837c-b52d-4351-a2bb-0348cffae627.jfif"
+  tags: ["window"]
+
+-
+  name: "可変式ガラス【黒色】セット"
+  url: "https://cluster.mu/store/packages/a179b18c-c85b-4783-8fe7-0d8799a92347"
+  img: "thumbnails/2c661e34-162b-4827-ad75-ab2b0bd219c6.jfif"
+  tags: ["window"]
+
+-
+  name: "可変式ガラス セット"
+  url: "https://cluster.mu/store/packages/349ef3bd-902d-49cc-9454-2c794a3a733e"
+  img: "thumbnails/7a967ada-c839-4a7a-9ab6-2014c738b1e0.jfif"
+  tags: ["window"]
+
+-
+  name: "ホームクラフト向けおすすめセット"
+  url: "https://cluster.mu/store/packages/10a2be4a-20f0-4a30-9ea1-f10e7515c884"
+  img: "thumbnails/2ccad975-eece-459c-8dfe-da724714516a.jfif"
+  tags: ["simple"]
+
+-
+  name: "アラーム付き卓上デジタル時計セット"
+  url: "https://cluster.mu/store/packages/1f4321c6-dd61-441d-aa86-d80a37237bfd"
+  img: "thumbnails/9713b3cd-1733-4740-bd39-a82110dd41a7.jfif"
+  tags: ["clock"]
+
+-
+  name: "卓上デジタル時計セット"
+  url: "https://cluster.mu/store/packages/38df8b00-260f-468a-938d-d77ad4c257f4"
+  img: "thumbnails/19592151-e102-449a-a81c-8362c1066145.jfif"
+  tags: ["clock"]
+
+-
+  name: "【作業用】片道リフト2セット"
+  url: "https://cluster.mu/store/packages/8c4baf5b-ea28-4c84-9907-fa04e1b59ff4"
+  img: "thumbnails/6a42771e-165c-4f01-99d0-2bc89915f84e.jfif"
+  tags: ["tool"]
+
+-
+  name: "【作業用】片道リフト1セット"
+  url: "https://cluster.mu/store/packages/e9e61e34-f5a0-463e-8c0f-a63653d1259f"
+  img: "thumbnails/ec51cc1f-cfd2-44df-af61-4ce591489041.jfif"
+  tags: ["tool"]
+
+-
+  name: "【作業用】転送台セット"
+  url: "https://cluster.mu/store/packages/1a315d33-4f3c-4f2b-8bce-c5db9ada99b3"
+  img: "thumbnails/c01b19f5-12b0-42bb-9b3c-e9f2a7938cdb.jfif"
+  tags: ["tool"]
+
 
 -
   name: "作る！ソフトクリーム セット"
