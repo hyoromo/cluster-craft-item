@@ -1,4 +1,11 @@
 tiles:
+
+-
+  name: "ボクセル☆パック1"
+  url: "https://cluster.mu/store/packages/e31019c5-ca68-4be7-9449-f14c8cadc270"
+  img: "thumbnails/e31019c5-ca68-4be7-9449-f14c8cadc270.jpg"
+  tags: ["voxel"]
+
 -
   name: "窓ガラスの枠【ﾒﾀﾘｯｸ茶色】セット"
   url: "https://cluster.mu/store/packages/f3c4357a-4483-4ad6-b5bf-5744446605d8"
