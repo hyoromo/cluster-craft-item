@@ -1,6 +1,12 @@
 tiles:
 
 -
+  name: "ボクセル☆パック2"
+  url: "https://cluster.mu/store/packages/c79e802c-838e-4d6d-a160-4ff45920f413"
+  img: "thumbnails/c79e802c-838e-4d6d-a160-4ff45920f413.jpg"
+  tags: ["voxel"]
+
+-
   name: "ボクセル☆パック1"
   url: "https://cluster.mu/store/packages/e31019c5-ca68-4be7-9449-f14c8cadc270"
   img: "thumbnails/e31019c5-ca68-4be7-9449-f14c8cadc270.jpg"
