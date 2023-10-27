@@ -1,6 +1,18 @@
 tiles:
 
 -
+  name: "シンプルな縁ありの鏡【白/黒/銀】セット"
+  url: "https://cluster.mu/store/packages/172a305a-efcc-4c5d-907a-161f3f81488f"
+  img: "thumbnails/c5389196-c60b-4f36-8b3c-2c020f338f05.jfif"
+  tags: ["simple"]
+
+-
+  name: "マジックミラーセット"
+  url: "https://cluster.mu/store/packages/e8f246a2-82d4-4080-a546-2b1ca7121fd5"
+  img: "thumbnails/d90bd034-b715-4017-a04c-8f5acc4a78a9.jfif"
+  tags: ["simple"]
+
+-
   name: "ボクセル☆パック2"
   url: "https://cluster.mu/store/packages/c79e802c-838e-4d6d-a160-4ff45920f413"
   img: "thumbnails/c79e802c-838e-4d6d-a160-4ff45920f413.jpg"
