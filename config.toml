@@ -24,13 +24,13 @@ Favicon = "favicon.ico"
 #icon = "star"
 
 [[ params.nav ]]
-name = "ボクセルフォント"
-tag = "voxel_font"
+name = "3Dフォント"
+tag = "3d_font"
 icon = "font"
 
 [[ params.nav ]]
-name = "ドットフォント"
-tag = "dot_font"
+name = "2dフォント"
+tag = "2d_font"
 icon = "font"
 
 [[ params.nav ]]
